@@ -2,7 +2,7 @@
  <h2 align="center">Bienvenido a mi repositorio</h2>
 </p>
   <p align="center">
-    <a href="readme.md">Español</a>
+    <a href="/README.md">Español</a>
     ·
     <a href="docs/readme_en.md">English</a>
     ·
