@@ -27,3 +27,4 @@
     <a href="docs/readme_tr.md">Türkçe</a> -->
   </p>
 </p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W0HQF15)
